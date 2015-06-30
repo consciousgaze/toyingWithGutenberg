@@ -1,0 +1,6 @@
+Python 2.7
+numpy
+scipy
+scikit lear
+
+all latest versionn
